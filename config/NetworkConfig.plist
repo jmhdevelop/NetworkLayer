@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://my-json-server.typicode.com/jmhdevelop/FakeEmployeeDB/blob/master/</string>
+	<key>Authorization</key>
+	<string></string>
+	<key>Content-Type</key>
+	<string></string>
+	<key>Header with keys</key>
+	<true/>
+	<key>Timeout</key>
+	<integer>20</integer>
+</dict>
+</plist>
